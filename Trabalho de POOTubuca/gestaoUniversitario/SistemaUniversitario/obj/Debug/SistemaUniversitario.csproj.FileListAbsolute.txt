@@ -1,0 +1,7 @@
+C:\Users\Heidy Alexandre\Desktop\Tarefa de POO\SistemaUniversitario\SistemaUniversitario\bin\Debug\SistemaUniversitario.exe.config
+C:\Users\Heidy Alexandre\Desktop\Tarefa de POO\SistemaUniversitario\SistemaUniversitario\bin\Debug\SistemaUniversitario.exe
+C:\Users\Heidy Alexandre\Desktop\Tarefa de POO\SistemaUniversitario\SistemaUniversitario\bin\Debug\SistemaUniversitario.pdb
+C:\Users\Heidy Alexandre\Desktop\Tarefa de POO\SistemaUniversitario\SistemaUniversitario\obj\Debug\SistemaUniversitario.csproj.AssemblyReference.cache
+C:\Users\Heidy Alexandre\Desktop\Tarefa de POO\SistemaUniversitario\SistemaUniversitario\obj\Debug\SistemaUniversitario.csproj.CoreCompileInputs.cache
+C:\Users\Heidy Alexandre\Desktop\Tarefa de POO\SistemaUniversitario\SistemaUniversitario\obj\Debug\SistemaUniversitario.exe
+C:\Users\Heidy Alexandre\Desktop\Tarefa de POO\SistemaUniversitario\SistemaUniversitario\obj\Debug\SistemaUniversitario.pdb
